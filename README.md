@@ -1,4 +1,3 @@
-````markdown
 # A\* Maze Game
 
 > **“用算法寻找出路，用创意点亮未来”**
@@ -50,11 +49,11 @@ A* Maze Game 是一个基于 C++ 和 Qt 的迷宫小游戏示例项目。项目�
 ### 📦 **构建与运行**
 
 1. **克隆项目**：
+
    ```bash
    git clone https://github.com/yourusername/A-Star-Maze-Game.git
    cd A-Star-Maze-Game
    ```
-````
 
 2. **使用 Qt Creator 打开项目**：
 
