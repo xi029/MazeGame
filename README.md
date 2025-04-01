@@ -2,8 +2,7 @@
 
 > **“用算法寻找出路，用创意点亮未来”**
 
-![A* Maze Game Banner](https://via.placeholder.com/800x200.png?text=A%2A+Maze+Game)  
-_（请替换为你自己的项目截图或横幅图片 URL）_
+![A* Maze Game Banner](img/index.png)
 
 ---
 
@@ -27,7 +26,7 @@ A* Maze Game 是一个基于 C++ 和 Qt 的迷宫小游戏示例项目。项目�
 
 ### 📸 **预览**
 
-## ![image](https://github.com/xi029/MazeGame)
+## ![image](https://github.com/xi029/MazeGame/blob/main/img/maze.gif)
 
 ### 🎮 **功能演示**
 
