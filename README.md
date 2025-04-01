@@ -1,4 +1,4 @@
-# A\* Maze Game
+# A\* MazeGame
 
 > **“用算法寻找出路，用创意点亮未来”**
 
@@ -9,6 +9,7 @@
 ### 🌟 **项目简介**
 
 A* Maze Game 是一个基于 C++ 和 Qt 的迷宫小游戏示例项目。项目利用经典的 A* 算法在一个二维迷宫中寻找最短路径，并通过 Qt 图形化界面实时展示迷宫布局、起点、终点以及求解路径。该项目适合 Qt 初学者和对路径规划算法感兴趣的开发者作为学习和扩展案例。
+项目可作为 C++、QT 程序开发、算法分析设计课程的大作业（如果是自命题的话 😀）
 
 ---
 
@@ -37,6 +38,23 @@ A* Maze Game 是一个基于 C++ 和 Qt 的迷宫小游戏示例项目。项目�
 
 ---
 
+### 📥 **下载与安装**
+
+#### 直接运行
+
+下载项目中的 Maze.zip 解压后，双击 MazeGame.exe 文件可直接运行，可右键将快捷方式发送到桌面
+
+#### **安装包版本**
+
+我们提供了一个预构建的可执行安装程序，方便用户直接运行项目：
+
+1. 访问项目的 [Releases 页面](https://github.com/xi029/MazeGame/releases)。
+2. 下载最新的安装包（例如 `maze_1.0.exe`）。
+3. 运行安装程序并按照提示完成安装。
+4. 安装完成后，从开始菜单或安装目录中启动游戏。
+
+---
+
 ### 🛠️ **环境要求**
 
 - **开发语言**：C++11 或以上
@@ -46,6 +64,8 @@ A* Maze Game 是一个基于 C++ 和 Qt 的迷宫小游戏示例项目。项目�
 ---
 
 ### 📦 **构建与运行**
+
+如果你想从源代码构建项目：
 
 1. **克隆项目**：
 
@@ -70,13 +90,16 @@ A* Maze Game 是一个基于 C++ 和 Qt 的迷宫小游戏示例项目。项目�
 ### 📁 **项目结构**
 
 ```plaintext
-A-Star-Maze-Game/
-├── MazeGame.pro         # 项目文件
-├── main.cpp             # 程序入口
-├── MainWindow.h         # 主窗口类定义
-├── MainWindow.cpp       # 主窗口类实现（包括按钮与布局）
-├── MazeWidget.h         # 迷宫绘制与 A* 算法实现的控件类
-└── MazeWidget.cpp       # 迷宫控件的实现（绘制、交互、求解）
+MazeGame
+├──img                       # 图片资源
+├──Maze.zip                  #可执行程序（解压后，双击MazeGame.exe直接运行）
+├──source code/
+    ├── MazeGame.pro         # 项目文件
+    ├── main.cpp             # 程序入口
+    ├── MainWindow.h         # 主窗口类定义
+    ├── MainWindow.cpp       # 主窗口类实现（包括按钮与布局）
+    ├── MazeWidget.h         # 迷宫绘制与 A* 算法实现的控件类
+    └── MazeWidget.cpp       # 迷宫控件的实现（绘制、交互、求解）
 ```
 
 ---
@@ -98,9 +121,10 @@ A-Star-Maze-Game/
 
 ### 📧 **联系方式**
 
-- **作者**：[你的名字](https://github.com/yourusername)
-- **项目主页**：[A-Star-Maze-Game](https://github.com/yourusername/A-Star-Maze-Game)
+- **作者**：fengyuan711@gmail.com
+- **项目主页**：[MazeGame](https://github.com/xi029/MazeGame)
 
+🚀 **欢迎 Star & Fork 支持本项目！** 🎉
 欢迎提出 Issue 与 PR，共同完善这个项目！
 
 ---
