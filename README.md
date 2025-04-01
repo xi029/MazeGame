@@ -1,6 +1,6 @@
 # A\* MazeGame
 
-> **“用算法寻找出路，用创意点亮未来”** 
+> **“用算法寻找出路，用创意点亮未来”**
 
 ![A* Maze Game Banner](img/index.png)
 
